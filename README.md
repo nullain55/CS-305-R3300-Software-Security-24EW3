@@ -17,3 +17,20 @@ Integrate secure coding practices and error handling.
 Properly sanitize code for certificate validation to prevent exploitation of vulnerabilities.
 Configure Spring Boot application to use HTTPS for secure communication.
 Develop a detailed migration plan with steps, responsible parties, timelines, and verification mechanisms for each identified vulnerability.
+
+
+8-1 Journal: Portfolio Submission
+Summary
+Artemis Financial, a consulting firm specializing in personalized financial planning, engaged Global Rain to conduct a comprehensive vulnerability assessment of their web-based software application.
+Software Security Excellence
+By conducting manual reviews and static testing, it was identified critical areas such as input validation, API security, cryptography, and client/server communication. 
+Challenges 
+Ensuring thorough coverage of all potential vulnerabilities while considering Artemis Financial's specific security requirements. 
+Increasing Layers of Security
+implementing proper input validation, upgrading outdated dependencies, enhancing error handling, and enforcing HTTPS communication
+Functionality and Security
+Regular assessments, code reviews, and proactive measures help maintain a secure and functional software application.
+Resources 
+utilized industry-standard tools such as static code analysis tools, dependency scanners, and vulnerability databases.
+Showcase Work
+well-documented vulnerability assessment report, highlight my testing practices, emphasize security expertise, and showcase my commitment to quality and collaboration. 
