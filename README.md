@@ -19,6 +19,7 @@ Configure Spring Boot application to use HTTPS for secure communication.
 Develop a detailed migration plan with steps, responsible parties, timelines, and verification mechanisms for each identified vulnerability.
 
 
+
 8-1 Journal: Portfolio Submission
 Summary
 Artemis Financial, a consulting firm specializing in personalized financial planning, engaged Global Rain to conduct a comprehensive vulnerability assessment of their web-based software application.
